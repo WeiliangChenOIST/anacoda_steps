@@ -26,3 +26,4 @@ WORKDIR /srcs/
 RUN rm -rf STEPS
 
 WORKDIR /
+
